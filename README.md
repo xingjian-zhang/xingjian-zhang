@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏄‍♂️ I am Xingjian Zhang, an undergraduate student major in _Computer Science @ UMich_; _Electrical & Computer Engineering @ SJTU_. I am deeply interested in data mining & NLP, and would like to pursue my Ph.D. in related fields. I use Python **a lot**.
+🏄‍♂️ I am Xingjian Zhang, an undergraduate student major in _Computer Science @ UMich_; _Electrical & Computer Engineering @ SJTU_. Additionally, I am serving as a research assistant at Foreseer Group @ Umich, advised by Dr. Qiaozhu Mei. I am deeply interested in data mining & NLP, and would like to pursue my Ph.D. in related fields. I use Python **a lot**.
 
 👉 Visit my [personal web page](https://xingjian-zhang.github.io/about/)!
 
