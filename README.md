@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://i.imgur.com/uo7WQxz.jpg" data-canonical-src="https://i.imgur.com/uo7WQxz.jpg" width="300" height="300" />
 </p>
+<p align="center">
+    ...Wait, but do I really make a difference?
+</p>
 
 - 👉 Visit my [personal web page](https://xingjian-zhang.github.io/about/)!
 - 🆕 Check out my new small project: [xingjian-zhang/CMDictionary](https://github.com/xingjian-zhang/CMDictionary)! It's under development!
