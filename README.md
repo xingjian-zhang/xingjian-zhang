@@ -6,4 +6,4 @@
 - 🆕 Check out my new small project: [xingjian-zhang/CMDictionary](https://github.com/xingjian-zhang/CMDictionary)! It's under development!
 - 📧 Contact me through <jimmyzxj@umich.edu>.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingjian-zhang&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingjian-zhang&theme=dracula&layout=compact)](https://github.com/xingjian-zhang)
