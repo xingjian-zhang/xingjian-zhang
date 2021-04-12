@@ -14,5 +14,5 @@
 - 📧 Contact me through <jimmyzxj@umich.edu>.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingjian-zhang&theme=dracula&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingjian-zhang&layout=compact">
 </p>
