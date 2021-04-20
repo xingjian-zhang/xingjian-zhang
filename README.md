@@ -15,5 +15,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingjian-zhang&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?range=last_7_days&layout=compact&username=xingjian_zhang">
 </p>
