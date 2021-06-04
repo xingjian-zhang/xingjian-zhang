@@ -12,7 +12,3 @@
 - 👉 Visit my [personal web page](https://xingjian-zhang.github.io/about/)!
 - 🆕 Check out my new small project: [xingjian-zhang/CMDictionary](https://github.com/xingjian-zhang/CMDictionary)! It's under development!
 - 📧 Contact me through <jimmyzxj@umich.edu>.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingjian-zhang&layout=compact">
-</p>
