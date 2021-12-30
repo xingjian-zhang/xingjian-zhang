@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏄‍♂️ I am **Xingjian Zhang**, an undergraduate student major in _Computer Science @ UMich_; _Electrical & Computer Engineering @ SJTU_. Additionally, I am serving as a research assistant at _Foreseer Group @ Umich_, advised by Dr. Qiaozhu Mei, and at _LLEX Group @ Umich_, advised by Dr. Paramveer Dhillon. This summer, I joined @Intel as a deep learning intern. I am deeply interested in data mining, network & NLP, and would like to pursue my Ph.D. in related fields. I use Python **a lot**.
+🏄‍♂️ I am **Xingjian Zhang**, an undergraduate student major in _Computer Science @ UMich_; _Electrical & Computer Engineering @ SJTU_. Additionally, I am serving as a research assistant at _Foreseer Group @ Umich_, advised by Dr. Qiaozhu Mei, and at _LLEX Group @ Umich_, advised by Dr. Paramveer Dhillon. I served at @Intel as a deep learning intern. I am deeply interested in data mining, network & NLP, and would like to pursue my Ph.D. in related fields. I use Python **a lot**.
 
 <!-- 
 <p align="center">
