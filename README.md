@@ -11,6 +11,6 @@
 </p> -->
 
 - 🆕 My paper _Fast Learning of MNL Model From General Partial Rankings with Application to Network Formation Modeling_ [[pdf](xingjian-zhang.github.io/wsdm.pdf)] has been accepted by [WSDM 2022](https://www.wsdm-conference.org/2022/) (~20%)!
-- 👉 Visit my [personal web page](https://xingjian-zhang.github.io/about/)!
+- 👉 Visit my [personal web page](https://xingjian-zhang.notion.site/)!
 - 🆕 Check out my new small project: [xingjian-zhang/CMDictionary](https://github.com/xingjian-zhang/CMDictionary)! It's under development!
 - 📧 Contact me through <jimmyzxj@umich.edu>.
